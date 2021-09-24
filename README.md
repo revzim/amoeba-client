@@ -1,6 +1,12 @@
 # Go Amoeba Client
 
-a [amoeba](https://github.com/NetEase/pomelo) client for golang updated for use with [amoeba](https://github.com/revzim/amoeba)
+a [amoeba][1] client for golang updated for use with [amoeba][2]
+
+[1]: https://github.com/NetEase/pomelo
+[2]: https://github.com/revzim/amoeba
+[3]: ./example/basic/js
+### [How to use with GopherJS][3]:
+`Run -> RunJS`
 
 ```
 go run .\example\basic\main.go --id="test" --token='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzIyNDU1MDIsImlhdCI6MTYzMjI0NDAwMiwiaWQiOiJ0ZXN0IiwibmFtZSI6InRlc3QgcGVyc29uIiwibmJmIjoxNjMyMjQzOTkyfQ.v07XyWCYX1ykMyoU2lbxlcpEzKyXw0sl40gyVqcD4Qc'
